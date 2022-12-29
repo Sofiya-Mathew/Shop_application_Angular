@@ -1,0 +1,3 @@
+ng add angular/material
+
+add materail imports in app.module.ts file

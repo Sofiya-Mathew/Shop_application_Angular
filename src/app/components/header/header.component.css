@@ -1,0 +1,7 @@
+.toolbar{
+    justify-content: space-between;
+}
+.toolbar a{
+    text-decoration: none;
+    color: rgb(15, 14, 14);
+}
